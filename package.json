@@ -1,5 +1,5 @@
 {
-    "name": "ts-project",
+    "name": "@cubetiq/ts-project",
     "version": "1.0.0",
     "description": "TS project template",
     "main": "dist/index.js",
