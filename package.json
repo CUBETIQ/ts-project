@@ -21,7 +21,7 @@
     "author": "Sambo Chea <sombochea@cubetiqs.com>",
     "license": "ISC",
     "devDependencies": {
-        "@typescript-eslint/eslint-plugin": "^4.30.0",
+        "@typescript-eslint/eslint-plugin": "^5.23.0",
         "@typescript-eslint/parser": "^4.30.0",
         "eslint": "^8.15.0",
         "eslint-config-prettier": "^8.3.0",
